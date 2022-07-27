@@ -34,10 +34,7 @@
       </a>
       <a href="https://www.python.org"> 
         <img width="40px" src="https://img.icons8.com/color/48/000000/python.png"/>
-      </a>
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/"> 
-        <img width="40px"src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
-      </a>
+     <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
     </kbd>
 </section> 
     <br>
@@ -52,6 +49,7 @@
       <a href="https://git-scm.com/"> 
         <img width="40px" src="https://img.icons8.com/color/48/000000/git.png"/> 
       </a> 
+      </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </section>
 
 <br/>
@@ -62,6 +60,9 @@
 </p>
 
 ## 📊 My Github Stats: 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kevin-Mendoza07&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Mendoza07&layout=compact&theme=vision-friendly-dark)](https://github.com/Kevin-Mendoza07/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kevin-Mendoza07&show_icons=true&theme=vision-friendly-dark&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kevin-Mendoza07&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kevin-Mendoza07&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 
